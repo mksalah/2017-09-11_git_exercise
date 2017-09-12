@@ -36,3 +36,5 @@ Steps:
    with `git push -u origin master`.
 10. Open a pull request to the course organization original repository with your changes. Make sure
     the Pull Request (PR) has a useful description of the changes you made.
+
+Hello!
