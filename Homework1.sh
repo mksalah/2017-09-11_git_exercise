@@ -17,4 +17,6 @@ echo "Creating README."
 touch README.txt
 # Created empty README.txt file
 
+# Add invisible files in empty directories
+touch {code,output}.gitkeep
 echo "All Done!"
