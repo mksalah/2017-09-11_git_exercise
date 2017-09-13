@@ -14,4 +14,7 @@ echo "Done creating directories"
 echo "Downloading crab rRNA fasta..."
 curl -L http://npk.io/aMPCOe+ -o data/raw_data/crab_rRNA.fasta
 
+#add invisible .gitkeep
+touch .gitkeep
+
 echo "Done"
