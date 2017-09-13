@@ -27,6 +27,6 @@ cd ../output/figures
 
 touch .gitkeep
 
-cd ../output/tables
+cd ../tables
 
 touch .gitkeep
