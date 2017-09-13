@@ -8,5 +8,9 @@ echo "Making directories"
 mkdir -p code data/raw_data output/figures output/tables
 echo "Downloading fasta file"
 curl -L http://npk.io/aMPCOe+ -o data/raw_data/crab_rRNA.fasta
+echo "Adding .gitkeeps"
+touch code/.gitkeep
+touch output/figures/.gitkeep
+touch output/tables/.gitkeep
 echo "All done!"
 
