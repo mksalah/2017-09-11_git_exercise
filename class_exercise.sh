@@ -18,3 +18,15 @@ echo "Now in raw_data"
 curl -L http://npk.io/aMPCOe+ -o filename.fasta
 
 echo "File downloaded"
+
+cd ../../code
+
+touch .gitkeep
+
+cd ../output/figures
+
+touch .gitkeep
+
+cd ../output/tables
+
+touch .gitkeep
