@@ -11,6 +11,7 @@ echo "Done creating directories!"
 
 #download the FASTA file into the raw_data subdirectory
 echo "Downloading crab FASTA file.."
+cd data/raw_data
 curl -L http://npk.io/aMPCOe+ -o filename.fasta
 
 #Add a blank README
