@@ -29,3 +29,11 @@ echo "Creating README."
 touch README.txt
 
 echo "Done"
+
+#Add invisible .gitkeep files
+
+echo "Adding invisibility"
+
+touch .gitkeep
+
+echo "You are now invisible"
