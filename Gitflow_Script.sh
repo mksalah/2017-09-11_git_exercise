@@ -34,6 +34,6 @@ echo "Done"
 
 echo "Adding invisibility"
 
-touch .gitkeep
+touch code/.gitkeep output/figures/.gitkeep output/tables/.gitkeep
 
 echo "You are now invisible"
