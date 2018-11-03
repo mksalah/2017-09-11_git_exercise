@@ -25,3 +25,4 @@ echo "Downloading crab fasta file..."
 curl -L http://npk.io/aMPCOe+ -o data/raw_data/crab_rRNA.fasta
 
 echo "All done!"
+
